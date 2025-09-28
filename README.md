@@ -1,60 +1,78 @@
-HTML Elements Practice
-This repository contains a comprehensive HTML practice file designed to demonstrate foundational HTML elements, structure, and formatting. It serves as a reference for new web developers and students who want to understand the basics of HTML5.
+# Basic HTML Website
 
-Overview
-The included file showcases the following core concepts:
+This project is a beginner-friendly HTML5 webpage that demonstrates the usage of various HTML tags and elements. It includes headings, paragraphs, links, images, lists, and tables — all with detailed comments for learning and reference.
 
-Correct usage of headings (<h1> to <h6>)
+## 🌐 Project Description
 
-Paragraphs and line breaks
+The purpose of this project is to:
+- Practice HTML structure and syntax.
+- Understand the use of semantic and non-semantic tags.
+- Explore how to create links, display images, and format text.
+- Demonstrate basic list and table creation.
+- Write clean, commented code to aid learning.
 
-Horizontal rules for section separation
+## 📁 Files Included
 
-Anchor tags with absolute and relative links
+- `index.html`: Main HTML file with all examples and comments.
 
-Image embedding (external and local sources)
+## 🧱 Features
 
-Semantic formatting tags (bold, italic, underline, strike-through)
+- ✅ HTML5 Doctype Declaration
+- ✅ Headings from `<h1>` to `<h6>`
+- ✅ Paragraphs with placeholder text
+- ✅ Horizontal rules (`<hr>`) and line breaks (`<br>`)
+- ✅ External and internal links (`<a href>`)
+- ✅ Image embedding (absolute and relative)
+- ✅ Text formatting: `<strong>`, `<em>`, `<ins>`, `<del>`, `<s>`
+- ✅ Lists:
+  - Unordered list (`<ul>`)
+  - Ordered list (`<ol>`)
+  - Description list (`<dl>`)
+- ✅ Tables with headings and rows
 
-Different list types (unordered, ordered, description lists)
+## 🧑‍💻 Usage
 
-Basic HTML table structure
+You can use this project as:
+- A starting point to learn HTML.
+- A reference template for basic website structure.
+- A teaching tool for explaining HTML tags and their usage.
 
-File Structure
-index.html – The main HTML file demonstrating all these elements with appropriate comments and examples.
+## 📷 Preview
 
-Features
-Headings: Uses all six levels to demonstrate text hierarchy.
+![Sample Screenshot](Image/Students.jpg)
 
-Paragraphs and Formatting: Shows example content and use of semantic tags like <strong>, <em>, <ins>, <del>, and <s>.
+## 🛠️ How to Run
 
-Hyperlinks: Includes both an absolute link (to Google) and a relative link (to a sample local page).
+1. Clone this repository or download the ZIP.
+2. Open `index.html` in any web browser.
+3. Explore the elements and inspect the structure.
 
-Images: Demonstrates embedding local images with alt text and gives examples for external images (commented).
+## 🔖 Notes
 
-Lists: Examples of unordered, ordered (with Roman numerals), and description lists.
+- Comments are added throughout the HTML for easier understanding.
+- This project does **not** include CSS or JavaScript.
+- All tags are used for demonstration purposes, and SEO best practices may vary.
 
-Table: Sample table with headers and data rows, using the <thead> and <tbody> sections.
+## 📚 Learning Focus
 
-Code Comments: Each section is labeled for easy learning and understanding.
+This project focuses on:
+- Semantic structure of HTML
+- Beginner-friendly formatting
+- Proper indentation and commenting
 
-Usage
-Clone this repository:
+## 📌 TODOs (Optional Enhancements)
 
-bash
-git clone https://github.com/your-username/html-elements-practice.git
-Open the index.html file in any web browser.
+- [ ] Add basic CSS styling for better visuals
+- [ ] Include form elements
+- [ ] Make the site responsive with CSS media queries
 
-Review each section to see how common HTML elements are written and rendered.
+## 🧾 License
 
-Improvements & Notes
-For visual enhancements, combine this HTML with an external CSS file.
+This project is for educational purposes and does not require a license.
 
-Always close all tags to ensure reliable rendering across browsers.
+---
 
-Use the W3C HTML validator to verify correct markup.
+### Author
 
-This code is meant for educational purposes and may be extended further as you learn more.
+**Yatender**
 
-Author
-Created by Yatender to aid in practicing and understanding HTML basics.
